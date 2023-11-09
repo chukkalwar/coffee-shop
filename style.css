@@ -31,6 +31,8 @@ html::-webkit-scrollbar{
 */
 
 #navbar {
+  position: fixed;
+  z-index:1000;
   background-color: #b2744c;
   width: 100%;
 }
